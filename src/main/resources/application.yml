@@ -2,3 +2,5 @@
 #  banner:
 #     Optional
 #    location: classpath:banner.txt
+#  main:
+#    banner-mode: console
