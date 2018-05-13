@@ -1,6 +1,7 @@
 #spring:
 #  banner:
-#     Optional
 #    location: classpath:banner.txt
+#    image:
+#      location: classpath:parrot.png
 #  main:
 #    banner-mode: console
